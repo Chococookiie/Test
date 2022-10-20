@@ -9,9 +9,6 @@
     /* background-image: linear-gradient(to right top, #e951c9, #b484fe, #66a9ff, #00c4ff, #00d8ff, #00e2f8, #00ebec, #3af3dc, #33f7c7, #48f9ab, #67fa8b, #89f966); */
   width: auto;
   height: auto;
-  background-repeat: no-repeat;
-  /* background-size: cover; */
-  
     background-image: linear-gradient(to right top, #e951c9, #b484fe, #66a9ff, #00c4ff, #00d8ff, #00e2f8, #00ebec, #3af3dc, #33f7c7, #48f9ab, #67fa8b, #89f966);
 }
 
@@ -23,11 +20,11 @@ font-family: 'freestyle script';
 color: rgb(234, 59, 94);
 background-image: url(https://media.tenor.com/i0LrRQdS5VUAAAAj/sparkles-fireworks.gif);
 /* background-size: auto; */
-back;
+
 }
 
 .gif{
-    margin: auto;
+    margin-top: 4%;
 }
 .gif img{
     width: 85vw;
@@ -40,7 +37,7 @@ display: block;
 }
 
 .ps{
-    color: rgb(0, 13, 255);
+    color: navy;
     /* width: 100vw; */
     margin: auto;
     font-weight: bold;
@@ -64,10 +61,6 @@ display: block;
     grid-template-columns: auto auto auto;
 }
 .center{
-/* align-items: center; */
- /* display: inline-block; */
-    /* margin-left: auto;
-  margin-right: auto; */
     width: 50%;
     margin: auto;
 }
