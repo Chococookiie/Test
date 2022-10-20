@@ -18,7 +18,7 @@
 .heading{
     text-align: center;
 width: 100vw;
-font-size: 45px;
+font-size: 20px;
 font-family: 'freestyle script';
 
 }
@@ -42,9 +42,14 @@ display: block;
     margin: auto;
     font-weight: bold;
     font-family: 'freestyle script';
-    font-size: 35px;
+    font-size: 14px;
     text-align: center;
     margin-top: 20px ;
+}
+
+.thanks{
+    font-size: 10px;
+    color: yellow;
 }
 .ps img{
     margin-left:auto ;
