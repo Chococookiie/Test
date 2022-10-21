@@ -70,25 +70,26 @@ display: block;
 /* splash screen */
 
 .intro{
-    position: fixed;
+    position: absolute;
+    top: 0px;
+    left: 0px;
     z-index: 1;
     width: 100vw;
     height: 100vh;
-    animation: dissolve 1s ease-out forwards;
+    /* animation: dissolve 1s ease-out forwards; */
     animation-delay: 15s;
-    background-color: rgb(182, 176, 176);
 }
 .content{
-    margin: auto;
-    width: 80vw;
-height: 80vh;
+    /* margin: auto; */
+    width: 100vw;
+height: 100vh;
 justify-content: center;
 align-items: center;
 margin-top: 4%;
 }
 .intro img{
-width: 80vw;
-height: 80vh;
+width: 100vw;
+height: 100vh;
 object-fit:fit;
 background-color: grey;
 }
