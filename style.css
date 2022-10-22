@@ -76,8 +76,8 @@ display: block;
     z-index: 1;
     width: 100vw;
     height: 100vh;
-    animation: dissolve 3s ease-out forwards;
-    animation-delay: 16s;
+    animation: dissolve 2s ease-out forwards;
+    animation-delay: 3s;
 }
 .content{
     /* margin: auto; */
